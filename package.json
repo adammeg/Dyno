@@ -12,7 +12,7 @@
     "dotenv": "^16.3.1",
     "ethereumjs-tx": "^2.1.2",
     "ethereumjs-util": "^7.1.5",
-    "express": "~4.16.1",
+    "express": "~4.21.0",
     "http-errors": "~1.6.3",
     "jade": "~1.11.0",
     "mongodb": "^6.0.0",
